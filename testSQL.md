@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Test to show SQL
 ```sql
 select "hello world"
